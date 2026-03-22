@@ -4,7 +4,7 @@ A portfolio of investment memos demonstrating structured analysis,
 clear financial thinking, and client-ready communication.
 Each memo is written to a strict 1-page format — because the ability
 to distill complex analysis into a single page is the skill itself.
-
+| Equity Decision Framework | — | Risk-First \| Mixed Top-Down \/ Bottom-Up | March 2026 |
 ---
 
 ## Memos
@@ -78,6 +78,22 @@ central question: what does the market have wrong, and why?
 | Digital Payments Market Share | 61% |
 
 ---
+## Decision Framework — How I Evaluate a Stock
+
+My investment process runs through four sequential phases,
+each with a binary gate check before proceeding:
+
+1. RISK AUDIT — Structural, financial, regulatory, management risk
+2. MACRO & SECTOR CONTEXT — Rate environment, cycle, tailwinds
+3. BUSINESS QUALITY — Revenue quality, moat, capital efficiency
+4. VALUATION & ENTRY — Absolute, relative, scenario, catalyst
+
+Philosophy: Risk before reward. Macro sets the table.
+Simplicity is the test — if I cannot explain the thesis in
+two sentences without jargon, the thesis is not ready.
+
+Output is always one of three things: BUY, WATCH, or PASS.
+No ambiguity. No sitting on the fence.
 
 ## Disclaimer
 

@@ -1,11 +1,12 @@
-# Equity Research — [Tasriful Kabir]
+# Equity Research — Tasriful Kabir
 
 A portfolio of investment memos demonstrating structured analysis,
 clear financial thinking, and client-ready communication.
 Each memo is written to a strict 1-page format — because the ability
 to distill complex analysis into a single page is the skill itself.
-| Equity Decision Framework | — | Risk-First \| Mixed Top-Down \/ Bottom-Up | March 2026 |
+
 ---
+| Equity Decision Framework | — | Risk-First \| Mixed Top-Down \/ Bottom-Up | March 2026 |
 
 ## Memos
 
